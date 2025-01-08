@@ -1,0 +1,14 @@
+{
+  "updater": {
+    "launcher_version": 1.0,
+    "launcher_url": "some_url",
+    "launcher_path": "filepath"
+  },
+  "launcher": {
+    "mods": [
+      "mod1",
+      "mod2",
+      "mod3"
+    ]
+  }
+}

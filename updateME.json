@@ -1,8 +1,8 @@
 {
   "updater": {
     "launcher_version": 1.0,
-    "launcher_url": "some_url",
-    "launcher_path": "filepath"
+    "launcher_url": "https://github.com/SanseLGUH/scp-zone-launcher-website-data/raw/refs/heads/main/updateME.json",
+    "launcher_path": "./somedata.rar"
   },
   "launcher": {
     "mods": [

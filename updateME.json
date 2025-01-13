@@ -1,5 +1,6 @@
 {
   "metadata_url": "",
+  "something": "else",
   "updater": {
     "big_update_ver": 1.0,
     "patch_ver": 1.0,

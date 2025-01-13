@@ -6,7 +6,7 @@
     "patch_ver": 1.0,
     "big_update_files": {
       "launcher_zip": "https://example.com/launcher.zip",
-      "extract_folder": "SCP-ZoneLauncher.zip"
+      "file_name": "SCP-ZoneLauncher.zip"
     },
     "patch_files": {
       "updated_files": {

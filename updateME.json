@@ -1,15 +1,50 @@
 {
+  "METADATA_URL": "", // <- most important!
+  "launcher_version": 1.0,
+  "release_date": "2025-01-10",
+  "description": "Best of the best SCP-ZONE update",
+  
   "updater": {
-    "launcher_version": 1.0,
-    "launcher_url": "https://drive.usercontent.google.com/download?id=1WKZoBmNed-lQe9_QIb-BlYjI1PRQBzxK&export=download&authuser=0&confirm=t&uuid=2818530a-4cc6-4018-95b3-45b6de867915&at=AIrpjvPySL2fNcOTgbXr5GzbfjlU%3A1736519180030",
-    "launcher_zip_name": "somedata.zip",
-    "launcher_folder_name": ".scp_zone"
+    "big_update_ver": 1.0,
+    "patch_ver": 1.0,
+
+    "big_update_files": {
+        "launcher_zip": "https://example.com/launcher.zip",  // URL to the launcher zip file
+        "extract_folder": "SCP-ZoneLauncher"  // Folder to extract the launcher files
+    },
+
+    "patch_files": {
+      "name": "Sigma patch 2088",
+
+      "updated_files": { // Optional: List of files to update or add new files
+        "file-1": {
+          "url": "https://example.com/patch2.zip",
+          "path": "./",
+          "description": "Updated UI and deleted redundant files.",
+        }
+      },
+
+      "deleted_files": { // Optional: List of files to delete
+        "file-1": {
+          "path": "./",
+          "description": "",
+        }
+      },
+
+      "changelog": [
+        "Fixed issue with launcher startup.",
+        "Improved performance during initialization."
+      ]
+    },
+
+    "executable_path": "C:/Program Files/SCP-Zone_v2.0/GameName.exe"
   },
+  
   "launcher": {
     "mods": [
-      "mod1",
-      "mod2",
-      "mod3"
+      "mod1",  // url of mod1
+      "mod2",  // url of mod2
+      "mod3"   // url of mod3
     ]
   }
 }

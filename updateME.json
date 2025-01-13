@@ -42,9 +42,9 @@
   
   "launcher": {
     "mods": [
-      "mod1",  // url of mod1
-      "mod2",  // url of mod2
-      "mod3"   // url of mod3
+      "mod1",  
+      "mod2", 
+      "mod3"  
     ]
   }
 }

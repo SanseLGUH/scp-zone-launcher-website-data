@@ -1,5 +1,5 @@
 {
-  "METADATA_URL": "", // <- most important!
+  "METADATA_URL": "",
   "launcher_version": 1.0,
   "release_date": "2025-01-10",
   "description": "Best of the best SCP-ZONE update",
@@ -9,14 +9,14 @@
     "patch_ver": 1.0,
 
     "big_update_files": {
-        "launcher_zip": "https://example.com/launcher.zip",  // URL to the launcher zip file
-        "extract_folder": "SCP-ZoneLauncher"  // Folder to extract the launcher files
+        "launcher_zip": "https://example.com/launcher.zip", 
+        "extract_folder": "SCP-ZoneLauncher" 
     },
 
     "patch_files": {
       "name": "Sigma patch 2088",
 
-      "updated_files": { // Optional: List of files to update or add new files
+      "updated_files": { 
         "file-1": {
           "url": "https://example.com/patch2.zip",
           "path": "./",
@@ -24,7 +24,7 @@
         }
       },
 
-      "deleted_files": { // Optional: List of files to delete
+      "deleted_files": {
         "file-1": {
           "path": "./",
           "description": "",

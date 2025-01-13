@@ -1,50 +1,25 @@
 {
   "metadata_url": "",
-  "launcher_version": 1.0,
-  "release_date": "2025-01-10",
-  "description": "Best of the best SCP-ZONE update",
-  
   "updater": {
     "big_update_ver": 1.0,
     "patch_ver": 1.0,
-
     "big_update_files": {
-        "launcher_zip": "https://example.com/launcher.zip", 
-        "extract_folder": "SCP-ZoneLauncher" 
+      "launcher_zip": "https://example.com/launcher.zip",
+      "extract_folder": "SCP-ZoneLauncher"
     },
-
     "patch_files": {
-      "name": "Sigma patch 2088",
-
-      "updated_files": { 
+      "updated_files": {
         "file-1": {
           "url": "https://example.com/patch2.zip",
-          "path": "./",
-          "description": "Updated UI and deleted redundant files.",
+          "path": "./"
         }
       },
-
       "deleted_files": {
         "file-1": {
-          "path": "./",
-          "description": "",
+          "path": "./"
         }
-      },
-
-      "changelog": [
-        "Fixed issue with launcher startup.",
-        "Improved performance during initialization."
-      ]
+      }
     },
-
     "executable_path": "C:/Program Files/SCP-Zone_v2.0/GameName.exe"
-  },
-  
-  "launcher": {
-    "mods": [
-      "mod1",  
-      "mod2", 
-      "mod3"  
-    ]
   }
 }

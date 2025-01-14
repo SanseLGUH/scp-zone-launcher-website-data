@@ -17,7 +17,7 @@
       },
       "deleted_files": {
         "file-1": {
-          "path": "patch.zip"
+          "path": "filetoremove.zip"
         }
       }
     },

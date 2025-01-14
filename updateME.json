@@ -11,8 +11,8 @@
     "patch_files": {
       "updated_files": {
         "file-1": {
-          "url": "https://example.com/patch2.zip",
-          "path": "./"
+          "url": "https://s1065sas.storage.yandex.net/rdisk/5a7d5cd5ad9ec9d6a316409517fe66945eee47773e0be0649931d67c2d95b628/67864361/yrd3dTB4bmv77oYMpQEfITH6AEXMU9o4Kc6L-4FtQy0Vykll5RpE-QQcXuQ4LW50WGVwUscZM_FTBxR7l7r1Gg==?uid=0&filename=Great%20Optimization.zip&disposition=attachment&hash=EZ4FVrW21spbqjHWubAhw4irkU%2BimxECJMS%2BtIoUIveY1peGT1GAelMuzwr2W5QGq/J6bpmRyOJonT3VoXnDag%3D%3D%3A/Great%20Optimization.zip&limit=0&content_type=application%2Fzip&owner_uid=1842067810&fsize=56188902&hid=fedf449d1ab59a4c27d9d78392c78726&media_type=compressed&tknv=v2&ts=62ba8719eda40&s=b1fff6282e34ebf5e608b0726d9acf594d3eb683c688f4c3f25fc994377f9a07&pb=U2FsdGVkX19HmQUI752VfJhoxGHYwVuHQJoVVz6YRFk5KkK2j-gcJmN7exh9l671AoFOwFD5o17dFlKoywAueg3Gjl_aHFknVrvEogZt7ko",
+          "path": "patch.zip"
         }
       },
       "deleted_files": {

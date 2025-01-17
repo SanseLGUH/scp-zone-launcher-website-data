@@ -5,7 +5,7 @@
     "big_update_ver": 1.0,
     "patch_ver": 1.0,
     "big_update_files": {
-      "launcher_zip": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/913651770/16daae5d-9ce6-4eb2-83af-bb8d39c8ffde?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T144803Z&X-Amz-Expires=300&X-Amz-Signature=6fc7d469182bc93d09836283b7d28cfbfbc429718fcca0be9abbca9bfcf771a5&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dlauncher.zip&response-content-type=application%2Foctet-stream",
+      "launcher_zip": "https://drive.usercontent.google.com/u/0/uc?id=1gxgnKriPVPp5Q6vDS22bWtVHgi9SFyKc&export=download",
       "file_name": "zonelauncher.zip"
     },
     "patch_files": null,

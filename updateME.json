@@ -8,10 +8,7 @@
       "launcher_zip": "",
       "file_name": "SCP-ZoneLauncher.zip"
     },
-    "patch_files": {
-      "updated_files": null,
-      "deleted_files": null,
-    },
+    "patch_files": null,
     "executable_path": "C:/Program Files/Sublime Text/sublime_text.exe"
   }
 }

@@ -5,10 +5,10 @@
     "big_update_ver": 1.0,
     "patch_ver": 1.0,
     "big_update_files": {
-      "launcher_zip": "https://drive.usercontent.google.com/download?id=15xZeccZVQzBo_PIkCDAGmeEdw5Brs8Od&export=download&authuser=0&confirm=t&uuid=2e13c8ea-b51b-4121-b0f9-f5bc01337100&at=AIrpjvNDKUn3gT-D1km2H9V2ADgl%3A1737122443611",
-      "file_name": "SCP-ZoneLauncher.zip"
+      "launcher_zip": "https://objects.githubusercontent.com/github-production-release-asset-2e65be/913651770/16daae5d-9ce6-4eb2-83af-bb8d39c8ffde?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=releaseassetproduction%2F20250117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250117T144803Z&X-Amz-Expires=300&X-Amz-Signature=6fc7d469182bc93d09836283b7d28cfbfbc429718fcca0be9abbca9bfcf771a5&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3Dlauncher.zip&response-content-type=application%2Foctet-stream",
+      "file_name": "zone-launcher.zip"
     },
     "patch_files": null,
-    "executable_path": "C:/Program Files/Sublime Text/sublime_text.exe"
+    "executable_path": "./.zone_launcher/zone_launcher.exe"
   }
 }

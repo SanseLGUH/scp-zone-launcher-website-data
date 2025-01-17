@@ -10,11 +10,7 @@
     },
     "patch_files": {
       "updated_files": null,
-      "deleted_files": {
-        "file-1": {
-          "path": "filetoremove.zip"
-        }
-      }
+      "deleted_files": null,
     },
     "executable_path": "C:/Program Files/Sublime Text/sublime_text.exe"
   }

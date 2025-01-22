@@ -1,11 +1,10 @@
 {
   "metadata_url": "https://github.com/SanseLGUH/scp-zone-launcher-website-data/raw/refs/heads/main/updateME.json",
-  "something": "else",
   "updater": {
-    "big_update_ver": 1.0,
+    "big_update_ver": 1.1,
     "patch_ver": 1.0,
     "big_update_files": {
-      "launcher_zip": "https://drive.usercontent.google.com/u/0/uc?id=1gxgnKriPVPp5Q6vDS22bWtVHgi9SFyKc&export=download",
+      "launcher_zip": "https://drive.usercontent.google.com/u/0/uc?id=1H86rfqB3_7XZa2d8Pd9y8ruui2YeEcH8&export=download",
       "file_name": "zonelauncher.zip"
     },
     "patch_files": null,

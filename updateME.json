@@ -1,13 +1,28 @@
 {
   "metadata_url": "https://github.com/SanseLGUH/scp-zone-launcher-website-data/raw/refs/heads/main/updateME.json",
-  "updater": {
-    "big_update_ver": 1.1,
-    "patch_ver": 1.0,
-    "big_update_files": {
-      "launcher_zip": "https://drive.usercontent.google.com/download?id=1A2n5QQsDsbKBaQ_wVOvGpxV_B3CyiXlS&export=download&authuser=0&confirm=t&uuid=a01c4f82-d4f1-4439-a8d3-bc4eb914c939&at=AIrpjvNywKHS-YnIZleslQO4hZsB:1737552614763",
-      "file_name": "zonelauncher.zip"
+  "update_details": {
+    "major_update_ver": 1.1,
+    "minor_update_ver": 1.0,
+    
+    "minecraft_files": {
+      "minecraft_zip": "minecraft.zip",
+      "folder_name": "Minecraft"
     },
-    "patch_files": null,
+    
+    "drivers_files": null,
+    
+    "major_update_files": {
+      "launcher_zip": "https://drive.usercontent.google.com/download?id=1A2n5QQsDsbKBaQ_wVOvGpxV_B3CyiXlS&export=download&authuser=0&confirm=t&uuid=a01c4f82-d4f1-4439-a8d3-bc4eb914c939&at=AIrpjvNywKHS-YnIZleslQO4hZsB:1737552614763",
+      "file_name": "launcher.zip",
+      "delta": false
+    },
+    
+    "minor_update_files": {
+      "updated_files": null,
+      "deleted_files": null,
+      "delta": false
+    },
+    
     "executable_path": "./.zone_launcher/zone_launcher.exe"
   }
 }

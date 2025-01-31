@@ -13,7 +13,7 @@
     },
     
     "drivers_files": {
-      "dotnet-runtime-8.0.12-win-x64.exe": "https://download.visualstudio.microsoft.com/download/pr/136f4593-e3cd-4d52-bc25-579cdf46e80c/8b98c1347293b48c56c3a68d72f586a1/dotnet-runtime-8.0.12-win-x64.exe"
+      "windowsdesktop-runtime-8.0.12-win-x64.exe": "https://download.visualstudio.microsoft.com/download/pr/f1e7ffc8-c278-4339-b460-517420724524/f36bb75b2e86a52338c4d3a90f8dac9b/windowsdesktop-runtime-8.0.12-win-x64.exe"
     },
     
     "major_update_files": {

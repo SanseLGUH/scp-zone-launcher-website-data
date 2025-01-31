@@ -22,11 +22,7 @@
       "delta": false
     },
     
-    "minor_update_files": {
-      "updated_files": null,
-      "deleted_files": null,
-      "delta": false
-    },
+    "minor_update_files": null,
     
     "executable_path": "./.zone_launcher/zone_launcher.exe"
   }

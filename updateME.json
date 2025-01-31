@@ -11,7 +11,11 @@
       "delta": false
     },
     
-    "drivers_files": null,
+    "drivers_files": {
+      "dotnet-runtime-8.0.12-win-x64.exe": {
+        "url": "https://download.visualstudio.microsoft.com/download/pr/136f4593-e3cd-4d52-bc25-579cdf46e80c/8b98c1347293b48c56c3a68d72f586a1/dotnet-runtime-8.0.12-win-x64.exe"
+      }
+    },
     
     "major_update_files": {
       "launcher_url": "https://drive.usercontent.google.com/download?id=1A2n5QQsDsbKBaQ_wVOvGpxV_B3CyiXlS&export=download&authuser=0&confirm=t&uuid=a01c4f82-d4f1-4439-a8d3-bc4eb914c939&at=AIrpjvNywKHS-YnIZleslQO4hZsB:1737552614763",

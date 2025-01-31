@@ -3,6 +3,7 @@
   "update_details": {
     "major_update_ver": 1.1,
     "minor_update_ver": 1.0,
+    "drivers_files_ver": 1.0,
     "minecraft_files_ver": 1.0,
     
     "minecraft_files": {

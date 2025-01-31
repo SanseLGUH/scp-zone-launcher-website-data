@@ -7,7 +7,8 @@
     
     "minecraft_files": {
       "minecraft_zip": "https://drive.usercontent.google.com/download?id=10m10I0wIhQkNQotIHSH7Du7g7rEb2chL&export=download&authuser=0&confirm=t&uuid=7997d234-f91b-427b-905d-33e26585cbbb&at=AIrpjvMlTXTRkssFO0V_IMw6Y6LD%3A1738311682317",
-      "folder_name": "minecraft.zip"
+      "folder_name": "minecraft.zip",
+      "delta": false
     },
     
     "drivers_files": null,

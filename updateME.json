@@ -1,29 +1,20 @@
 {
   "metadata_url": "https://github.com/SanseLGUH/scp-zone-launcher-website-data/raw/refs/heads/main/updateME.json",
-  "update_details": {
-    "major_update_ver": 1.1,
-    "minor_update_ver": 1.0,
-    "drivers_files_ver": 1.0,
-    "minecraft_files_ver": 1.0,
-    
-    "minecraft_files": {
-      "minecraft_url": "https://drive.usercontent.google.com/download?id=10m10I0wIhQkNQotIHSH7Du7g7rEb2chL&export=download&authuser=0&confirm=t&uuid=7997d234-f91b-427b-905d-33e26585cbbb&at=AIrpjvMlTXTRkssFO0V_IMw6Y6LD%3A1738311682317",
-      "file_name": "minecraft.zip",
-      "delta": false
-    },
-    
-    "drivers_files": {
+  "update_info": {
+    "java_url": "https://sdlc-esd.oracle.com/ESD6/JSCDL/jdk/8u441-b07/7ed26d28139143f38c58992680c214a5/JavaSetup8u441.exe?GroupName=JSC&FilePath=/ESD6/JSCDL/jdk/8u441-b07/7ed26d28139143f38c58992680c214a5/JavaSetup8u441.exe&BHost=javadl.sun.com&File=JavaSetup8u441.exe&AuthParam=1738488786_7c4b1d9dfedda58e3d09e81f437c44cd&ext=.exe",
+    "drivers_version": 1.0,
+    "major_update_version": 1.0,
+    "driver_files": {
       "windowsdesktop-runtime-8.0.12-win-x64.exe": "https://download.visualstudio.microsoft.com/download/pr/f1e7ffc8-c278-4339-b460-517420724524/f36bb75b2e86a52338c4d3a90f8dac9b/windowsdesktop-runtime-8.0.12-win-x64.exe"
     },
-    
-    "major_update_files": {
-      "launcher_url": "https://drive.usercontent.google.com/download?id=1A2n5QQsDsbKBaQ_wVOvGpxV_B3CyiXlS&export=download&authuser=0&confirm=t&uuid=a01c4f82-d4f1-4439-a8d3-bc4eb914c939&at=AIrpjvNywKHS-YnIZleslQO4hZsB:1737552614763",
-      "file_name": "zone_launcher.zip",
-      "delta": false
-    },
-    
-    "minor_update_files": null,
-    
-    "executable_path": "./.zone_launcher/zone_launcher.exe"
+    "major_update_files": [
+      {
+        "url": "https://drive.usercontent.google.com/download?id=1A2n5QQsDsbKBaQ_wVOvGpxV_B3CyiXlS&export=download&authuser=0&confirm=t&uuid=a01c4f82-d4f1-4439-a8d3-bc4eb914c939&at=AIrpjvNywKHS-YnIZleslQO4hZsB:1737552614763",
+        "file_name": "zone_launcher.zip",
+        "folder_name": ".zone-launcher",
+        "delta": false
+      }
+    ],
+    "executable_path": "string"
   }
 }

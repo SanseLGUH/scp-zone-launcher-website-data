@@ -1,6 +1,6 @@
 {
   "metadata_url": "https://github.com/SanseLGUH/scp-zone-launcher-website-data/raw/refs/heads/main/updateME.json",
-  "update_info": {
+  "update_details": {
     "java_url": "https://sdlc-esd.oracle.com/ESD6/JSCDL/jdk/8u441-b07/7ed26d28139143f38c58992680c214a5/JavaSetup8u441.exe?GroupName=JSC&FilePath=/ESD6/JSCDL/jdk/8u441-b07/7ed26d28139143f38c58992680c214a5/JavaSetup8u441.exe&BHost=javadl.sun.com&File=JavaSetup8u441.exe&AuthParam=1738488786_7c4b1d9dfedda58e3d09e81f437c44cd&ext=.exe",
     "drivers_version": 1.0,
     "major_update_version": 1.0,

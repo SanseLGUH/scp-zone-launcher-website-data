@@ -5,7 +5,7 @@
     "major_update_version": 1.0,
     "drivers_files": {
       "key": {
-        "url": "https://sdlc-esd.oracle.com/ESD6/JSCDL/jdk/8u441-b07/7ed26d28139143f38c58992680c214a5/JavaSetup8u441.exe?GroupName=JSC&FilePath=/ESD6/JSCDL/jdk/8u441-b07/7ed26d28139143f38c58992680c214a5/JavaSetup8u441.exe&BHost=javadl.sun.com&File=JavaSetup8u441.exe&AuthParam=1739030968_d7b8e1fc759427505a244f8e456db698&ext=.exe",
+        "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.102/dotnet-sdk-9.0.102-win-x64.exe",
         "driver_name": "java",
         "arg": "-version"
       }

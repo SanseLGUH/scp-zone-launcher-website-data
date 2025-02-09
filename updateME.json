@@ -1,8 +1,10 @@
 {
   "metadata_url": "https://github.com/SanseLGUH/scp-zone-launcher-website-data/raw/refs/heads/main/updateME.json",
+  
   "update_details": {
     "drivers_version": 1.0,
     "major_update_version": 1.0,
+    
     "drivers_files": {
       "dotnet9.exe": {
         "url": "https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.102/dotnet-sdk-9.0.102-win-x64.exe",
@@ -10,6 +12,7 @@
         "arg": "-version"
       }
     },
+    
     "major_update_files": [
       {
         "url": "https://drive.usercontent.google.com/download?id=1A2n5QQsDsbKBaQ_wVOvGpxV_B3CyiXlS&export=download&authuser=0&confirm=t&uuid=a01c4f82-d4f1-4439-a8d3-bc4eb914c939&at=AIrpjvNywKHS-YnIZleslQO4hZsB:1737552614763",
@@ -18,6 +21,7 @@
         "delta": false
       }
     ],
+    
     "executable_path": "string"
   }
 }
